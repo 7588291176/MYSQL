@@ -1,0 +1,1 @@
+SELECT * FROM winequality.mytable;
